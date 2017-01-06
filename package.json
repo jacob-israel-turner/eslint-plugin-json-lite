@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-json-lite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacob-israel-turner/eslint-plugin-json-lite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacob-israel-turner/eslint-plugin-json-lite/issues"
+  },
+  "homepage": "https://github.com/jacob-israel-turner/eslint-plugin-json-lite#readme"
+}
